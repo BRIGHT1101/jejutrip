@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/jejutrip/static/css/main.01aa677e.chunk.css",
-    "main.js": "/jejutrip/static/js/main.d1888bcb.chunk.js",
-    "main.js.map": "/jejutrip/static/js/main.d1888bcb.chunk.js.map",
+    "main.css": "/jejutrip/static/css/main.6cf6965b.chunk.css",
+    "main.js": "/jejutrip/static/js/main.30e46160.chunk.js",
+    "main.js.map": "/jejutrip/static/js/main.30e46160.chunk.js.map",
     "runtime-main.js": "/jejutrip/static/js/runtime-main.dd5d3483.js",
     "runtime-main.js.map": "/jejutrip/static/js/runtime-main.dd5d3483.js.map",
     "static/js/2.8597f3c7.chunk.js": "/jejutrip/static/js/2.8597f3c7.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.339fbd61.chunk.js": "/jejutrip/static/js/3.339fbd61.chunk.js",
     "static/js/3.339fbd61.chunk.js.map": "/jejutrip/static/js/3.339fbd61.chunk.js.map",
     "index.html": "/jejutrip/index.html",
-    "static/css/main.01aa677e.chunk.css.map": "/jejutrip/static/css/main.01aa677e.chunk.css.map",
+    "static/css/main.6cf6965b.chunk.css.map": "/jejutrip/static/css/main.6cf6965b.chunk.css.map",
     "static/js/2.8597f3c7.chunk.js.LICENSE.txt": "/jejutrip/static/js/2.8597f3c7.chunk.js.LICENSE.txt",
     "static/media/jejumap.4dc03bf9.jpg": "/jejutrip/static/media/jejumap.4dc03bf9.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.dd5d3483.js",
     "static/js/2.8597f3c7.chunk.js",
-    "static/css/main.01aa677e.chunk.css",
-    "static/js/main.d1888bcb.chunk.js"
+    "static/css/main.6cf6965b.chunk.css",
+    "static/js/main.30e46160.chunk.js"
   ]
 }
